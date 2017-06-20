@@ -1,0 +1,11 @@
+3.0.3 BluetoothGrasper 4 4 191
+62	6634446a93381bf78a8b8d76c8eacd21	
+84	8717b50f8f893abd5a27eee6a3b9122e	
+186	c1f247abf402ace08f4b8702d735d4dc	
+608	2453bdac879d36dd6c86e37c7d6ae7c3	
+
+=====
+2453bdac879d36dd6c86e37c7d6ae7c3	simplescan.c	1	
+6634446a93381bf78a8b8d76c8eacd21	rfcomm-client.c	1	
+8717b50f8f893abd5a27eee6a3b9122e	rfcomm-server.c	1	
+c1f247abf402ace08f4b8702d735d4dc	l2cap-client.c	1	
