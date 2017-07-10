@@ -1,0 +1,54 @@
+3.0.3 BareMetal-OS-legacy 10 30 1041
+52	bdf2a8654738e722cac311fcb254e5f6	
+56	2388affee5d10ba6c99ef1ff16ab2c99	b10e334135d8f12878b3334e8fae65f0	0b529b828eeb3cc3bcd0bdbcff4fdbd6	
+63	0e3a9439e76b97f61996c49c0082b47b	
+64	2e741fd861032f85e9ddf95b1b2df5a8	
+66	d26648bd8de4cb66be41739b4c29dc92	
+67	e2089d2767cc62cc6b21291bcb73960a	
+68	d006375fdc42ff37c4edf59766be467b	
+69	c77c30c1d6402a3437362a117b1b67b5	
+75	f1e69e33b82443420c144df7c1e7ce00	7d99f6881bcea10ae0d3f346fc56d87e	6fa1043f2c4016c566574c006e425eae	
+79	0e47b34005e23d1703b3e74025e41686	
+86	4e9a3f4307b3829111592408c3625fd7	
+87	6a5eb730c024305462ad634a22b70834	3b09711961d49dfed049c74456190e6a	88b5cd84f956ef6214f9ea0c64f31476	
+88	b9ae76dba292d3aab39eba9437d03bbe	
+90	e1de6aaa397b38e3079606677c2b907a	
+91	aec2f7db0cc594a701b89bb41f0db8a0	
+94	69daf8d240b38ea8dd7178786032cc04	
+99	06c72125e503269a11cceb099bb86802	ee7e71d99036b677aa99a6237a3081b6	
+116	5c610387d72d01b395887086b57f5b54	
+127	82149a3b60cc6192398eca0f545e7b02	
+371	11ea632ff05fa5ce70409ab88300b3b0	
+637	b64f154d0bc8ee7295f1a901cf7e1c5d	
+1254	36aa8c763e2df1ac5932cd07101665cd	
+
+=====
+06c72125e503269a11cceb099bb86802	programs/libBareMetal.c	16	
+0b529b828eeb3cc3bcd0bdbcff4fdbd6	programs/libBareMetal.c	2	
+0e3a9439e76b97f61996c49c0082b47b	programs/libBareMetal.c	4	
+0e47b34005e23d1703b3e74025e41686	programs/libBareMetal.c	6	
+11ea632ff05fa5ce70409ab88300b3b0	programs/prime.c	1	
+2388affee5d10ba6c99ef1ff16ab2c99	programs/libBareMetal.c	11	
+2e741fd861032f85e9ddf95b1b2df5a8	newlib/baremetal/syscalls.c	1	
+36aa8c763e2df1ac5932cd07101665cd	programs/3dstars.c	1	
+3b09711961d49dfed049c74456190e6a	newlib/baremetal/crt0.c	2	programs/libBareMetal.c	17	
+4e9a3f4307b3829111592408c3625fd7	programs/ethtoolc.c	1	
+5c610387d72d01b395887086b57f5b54	programs/3dstars.c	2	
+69daf8d240b38ea8dd7178786032cc04	newlib/test.c	1	
+6a5eb730c024305462ad634a22b70834	programs/libBareMetal.c	5	
+6fa1043f2c4016c566574c006e425eae	programs/libBareMetal.c	13	
+7d99f6881bcea10ae0d3f346fc56d87e	programs/libBareMetal.c	12	
+82149a3b60cc6192398eca0f545e7b02	programs/args.c	1	
+88b5cd84f956ef6214f9ea0c64f31476	programs/libBareMetal.c	3	
+aec2f7db0cc594a701b89bb41f0db8a0	programs/libBareMetal.c	9	
+b10e334135d8f12878b3334e8fae65f0	programs/libBareMetal.c	7	
+b64f154d0bc8ee7295f1a901cf7e1c5d	programs/primesmp.c	1	
+b9ae76dba292d3aab39eba9437d03bbe	programs/ethtoolc.c	3	
+bdf2a8654738e722cac311fcb254e5f6	newlib/baremetal/syscalls.c	7	
+c77c30c1d6402a3437362a117b1b67b5	programs/ethtoolc.c	2	
+d006375fdc42ff37c4edf59766be467b	programs/libBareMetal.c	18	
+d26648bd8de4cb66be41739b4c29dc92	programs/3dstars.c	3	
+e1de6aaa397b38e3079606677c2b907a	programs/libBareMetal.c	10	
+e2089d2767cc62cc6b21291bcb73960a	programs/libBareMetal.c	14	
+ee7e71d99036b677aa99a6237a3081b6	programs/libBareMetal.c	15	
+f1e69e33b82443420c144df7c1e7ce00	newlib/baremetal/crt0.c	1	
