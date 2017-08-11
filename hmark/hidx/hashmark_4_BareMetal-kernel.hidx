@@ -1,0 +1,24 @@
+3.0.3 BareMetal-kernel 1 12 92
+56	0b529b828eeb3cc3bcd0bdbcff4fdbd6	
+63	0e3a9439e76b97f61996c49c0082b47b	
+68	94017f1c156a0e3d2f0aa5f27f3b10b6	5beded842091e34208ac841a453c63a6	
+87	962260e498401295f6ed75872d5f0216	c1bbf9145234cf61ac55549a755d4f8c	88b5cd84f956ef6214f9ea0c64f31476	
+90	44ac1c68b8d7ff0418f18cabf541e15c	
+91	8b1f380ea4ba4d36b1f592ca612007ed	
+99	1103ad49845ad81d6ea902a6e213ee5a	
+111	b68fba31725d00a561f9f4e68fd7bd25	
+113	78d896d0e2adaf3bd1b99a338f25aa22	
+
+=====
+0b529b828eeb3cc3bcd0bdbcff4fdbd6	api/libBareMetal.c	2	
+0e3a9439e76b97f61996c49c0082b47b	api/libBareMetal.c	4	
+1103ad49845ad81d6ea902a6e213ee5a	api/libBareMetal.c	5	
+44ac1c68b8d7ff0418f18cabf541e15c	api/libBareMetal.c	8	
+5beded842091e34208ac841a453c63a6	api/libBareMetal.c	9	
+78d896d0e2adaf3bd1b99a338f25aa22	api/libBareMetal.c	12	
+88b5cd84f956ef6214f9ea0c64f31476	api/libBareMetal.c	3	
+8b1f380ea4ba4d36b1f592ca612007ed	api/libBareMetal.c	7	
+94017f1c156a0e3d2f0aa5f27f3b10b6	api/libBareMetal.c	14	
+962260e498401295f6ed75872d5f0216	api/libBareMetal.c	10	
+b68fba31725d00a561f9f4e68fd7bd25	api/libBareMetal.c	11	
+c1bbf9145234cf61ac55549a755d4f8c	api/libBareMetal.c	13	
